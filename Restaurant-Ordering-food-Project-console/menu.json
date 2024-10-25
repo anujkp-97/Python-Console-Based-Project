@@ -1,0 +1,89 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "name": "Shahi Paneer",
+            "price": 200,
+            "veg": "true",
+            "review": [
+                4
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Paneer Tikka",
+            "price": 150,
+            "veg": "true",
+            "review": [
+                5
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Tandoori Chaap",
+            "price": 100,
+            "veg": "false",
+            "review": []
+        },
+        {
+            "id": 4,
+            "name": "Gulab Jamon",
+            "price": 50,
+            "veg": "true",
+            "review": []
+        },
+        {
+            "id": 5,
+            "name": "Paneer Biryani",
+            "price": 180,
+            "veg": "true",
+            "review": []
+        },
+        {
+            "id": 6,
+            "name": "Veg Soup",
+            "price": 80,
+            "veg": "true",
+            "review": [
+                4
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Burger crispy",
+            "price": 150,
+            "veg": "true",
+            "review": [
+                5
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Ice-Cream",
+            "price": 100,
+            "veg": "false",
+            "review": []
+        },
+        {
+            "id": 9,
+            "name": "Moong Dal",
+            "price": 120,
+            "veg": "true",
+            "review": []
+        },
+        {
+            "id": 10,
+            "name": "Non-veg Biryani",
+            "price": 180,
+            "veg": "false",
+            "review": []
+        },
+        {
+            "id": 12,
+            "name": "Sweet Lassi",
+            "price": 50,
+            "veg": true,
+            "reviews": []
+        }
+    ]
+}

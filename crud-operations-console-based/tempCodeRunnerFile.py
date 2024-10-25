@@ -1,0 +1,1 @@
+db.update(newName, newPhone, uid)
